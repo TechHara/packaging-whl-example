@@ -1,4 +1,4 @@
-from sum import add_all
+from .sum import add_all
 from typing import Iterable
 
 
