@@ -12,3 +12,8 @@ pip install build
 # this will generate whl file in dist/ directory
 python -m build
 ```
+
+### dev setup
+```shell
+pip install -e .
+```
